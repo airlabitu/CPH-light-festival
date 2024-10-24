@@ -5,7 +5,7 @@
 // Refine data in 'csv' file
 // Setup filtering in Processing code (individual depending on the datafile)
 // Adjust simulation (e.g speed, jumps in timeline)
-// Choose background visuals in MAdMapper
+// Choose background visuals in MadMapper
 // Find the needed OSC addresses from MadMapper
 // Find the input scale from MadMapper
 // Adjust code with OSC address, and correct mapping of datavalue to fit MadMapper scale
@@ -68,8 +68,10 @@ void draw() {
   }
 }
 
+/*
 void mousePressed() {
   OscMessage myMessage = new OscMessage("/medias/Sphere/Noise/Speed");
   myMessage.add(1.4);
   oscP5.send(myMessage, myRemoteLocation); 
 }
+*/
