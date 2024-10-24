@@ -1,6 +1,15 @@
 # CPH-light-festival-2025
 
-## MadMapper settings
+## Proccessing
+### Download
+https://processing.org/download
+
+
+## MadMapper
+### Download
+https://madmapper.com/madmapper/software
+
+### settings
 - Start from the MadMapper template project from this repository.
 - Open preferences and set DMX settings output to "ArtNet", and toggle the "Unicast".
 
