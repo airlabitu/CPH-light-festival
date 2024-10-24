@@ -21,6 +21,7 @@ Find a MadMapper template project in the folder "MadMapper" in this repo.
 - Open preferences and set DMX settings output to "ArtNet", and toggle the "Unicast".
 </br>
 </br>
+
 ## Laptop network settings
 Connect the ArtNet controller via ethernet connection, and make sure it has power.
 
