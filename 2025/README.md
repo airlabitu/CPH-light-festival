@@ -6,7 +6,7 @@ https://processing.org/download
 
 ### Template project
 Find a Processing template code, with example dataset, in the folder "Processing" in this repo.
-
+<br>
 
 ## MadMapper
 ### Download
@@ -14,11 +14,12 @@ https://madmapper.com/madmapper/software
 
 ### Template project
 Find a MadMapper template project in the folder "MadMapper" in this repo.
+<br>
 
 ### settings
 - Start from the MadMapper template project from this repository.
 - Open preferences and set DMX settings output to "ArtNet", and toggle the "Unicast".
-
+<br>
 ## Laptop network settings
 Connect the ArtNet controller via ethernet connection, and make sure it has power.
 
