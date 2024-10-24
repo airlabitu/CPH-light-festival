@@ -4,10 +4,16 @@
 ### Download
 https://processing.org/download
 
+### Template project
+Find a Processing template code, with example dataset, in the folder "Processing" in this repo.
+
 
 ## MadMapper
 ### Download
 https://madmapper.com/madmapper/software
+
+### Template project
+Find a MadMapper template project in the folder "MadMapper" in this repo.
 
 ### settings
 - Start from the MadMapper template project from this repository.
