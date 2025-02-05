@@ -1,0 +1,188 @@
+<LEDFixtureLibrary>
+ <LEDFixture product="WS2815_170" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="170" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 364 367 370 373 376 379 382 385 388 391 394 397 400 403 406 409 412 415 418 421 424 427 430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 475 478 481 484 487 490 493 496 499 502 505 508 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="WS2815_10" group="AIR LAB" favorite="0">
+  <PixelMapping type="BRG" width="10" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="WS2815_121" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="121" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="WS2815_100" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="100" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="RGB_21x1" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="21" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="RGB_3x1" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="3" avoidCrossUniversePixels="0" height="1">1 4 7 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="RGB_170x1" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="170" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 -1 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 364 367 370 373 376 379 382 385 388 391 394 397 400 403 406 409 412 415 418 421 424 427 430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 475 478 481 484 487 490 493 496 499 502 505 508 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="WS2815_605x1" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="605" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 364 367 370 373 376 379 382 385 388 391 394 397 400 403 406 409 412 415 418 421 424 427 430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 475 478 481 484 487 490 493 496 499 502 505 508 511 514 517 520 523 526 529 532 535 538 541 544 547 550 553 556 559 562 565 568 571 574 577 580 583 586 589 592 595 598 601 604 607 610 613 616 619 622 625 628 631 634 637 640 643 646 649 652 655 658 661 664 667 670 673 676 679 682 685 688 691 694 697 700 703 706 709 712 715 718 721 724 727 730 733 736 739 742 745 748 751 754 757 760 763 766 769 772 775 778 781 784 787 790 793 796 799 802 805 808 811 814 817 820 823 826 829 832 835 838 841 844 847 850 853 856 859 862 865 868 871 874 877 880 883 886 889 892 895 898 901 904 907 910 913 916 919 922 925 928 931 934 937 940 943 946 949 952 955 958 961 964 967 970 973 976 979 982 985 988 991 994 997 1000 1003 1006 1009 1012 1015 1018 1021 1024 1027 1030 1033 1036 1039 1042 1045 1048 1051 1054 1057 1060 1063 1066 1069 1072 1075 1078 1081 1084 1087 1090 1093 1096 1099 1102 1105 1108 1111 1114 1117 1120 1123 1126 1129 1132 1135 1138 1141 1144 1147 1150 1153 1156 1159 1162 1165 1168 1171 1174 1177 1180 1183 1186 1189 1192 1195 1198 1201 1204 1207 1210 1213 1216 1219 1222 1225 1228 1231 1234 1237 1240 1243 1246 1249 1252 1255 1258 1261 1264 1267 1270 1273 1276 1279 1282 1285 1288 1291 1294 1297 1300 1303 1306 1309 1312 1315 1318 1321 1324 1327 1330 1333 1336 1339 1342 1345 1348 1351 1354 1357 1360 1363 1366 1369 1372 1375 1378 1381 1384 1387 1390 1393 1396 1399 1402 1405 1408 1411 1414 1417 1420 1423 1426 1429 1432 1435 1438 1441 1444 1447 1450 1453 1456 1459 1462 1465 1468 1471 1474 1477 1480 1483 1486 1489 1492 1495 1498 1501 1504 1507 1510 1513 1516 1519 1522 1525 1528 1531 1534 1537 1540 1543 1546 1549 1552 1555 1558 1561 1564 1567 1570 1573 1576 1579 1582 1585 1588 1591 1594 1597 1600 1603 1606 1609 1612 1615 1618 1621 1624 1627 1630 1633 1636 1639 1642 1645 1648 1651 1654 1657 1660 1663 1666 1669 1672 1675 1678 1681 1684 1687 1690 1693 1696 1699 1702 1705 1708 1711 1714 1717 1720 1723 1726 1729 1732 1735 1738 1741 1744 1747 1750 1753 1756 1759 1762 1765 1768 1771 1774 1777 1780 1783 1786 1789 1792 1795 1798 1801 1804 1807 1810 1813 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="WS2815_300" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="300" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 364 367 370 373 376 379 382 385 388 391 394 397 400 403 406 409 412 415 418 421 424 427 430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 475 478 481 484 487 490 493 496 499 502 505 508 511 514 517 520 523 526 529 532 535 538 541 544 547 550 553 556 559 562 565 568 571 574 577 580 583 586 589 592 595 598 601 604 607 610 613 616 619 622 625 628 631 634 637 640 643 646 649 652 655 658 661 664 667 670 673 676 679 682 685 688 691 694 697 700 703 706 709 712 715 718 721 724 727 730 733 736 739 742 745 748 751 754 757 760 763 766 769 772 775 778 781 784 787 790 793 796 799 802 805 808 811 814 817 820 823 826 829 832 835 838 841 844 847 850 853 856 859 862 865 868 871 874 877 880 883 886 889 892 895 898 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="CPH_light_test" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="80" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="CPH_light_9_px" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="9" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Cph_light_10_px" group="AIR LAB" favorite="0">
+  <PixelMapping type="RGB" width="10" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 RGB 0.5m" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="10" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 RGB 1m" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="20" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 W 0.5m" group="GarageCube" favorite="0">
+  <PixelMapping type="L" width="30" avoidCrossUniversePixels="0" height="1">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 W 1m" group="GarageCube" favorite="0">
+  <PixelMapping type="L" width="60" avoidCrossUniversePixels="0" height="1">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 RGB 0.25m" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="5" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="SFX-01 W 0.25m" group="GarageCube" favorite="0">
+  <PixelMapping type="L" width="15" avoidCrossUniversePixels="0" height="1">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 1" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="CPH-light-test" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="600" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 166 169 172 175 178 181 184 187 190 193 196 199 202 205 208 211 214 217 220 223 226 229 232 235 238 241 244 247 250 253 256 259 262 265 268 271 274 277 280 283 286 289 292 295 298 301 304 307 310 313 316 319 322 325 328 331 334 337 340 343 346 349 352 355 358 361 364 367 370 373 376 379 382 385 388 391 394 397 400 403 406 409 412 415 418 421 424 427 430 433 436 439 442 445 448 451 454 457 460 463 466 469 472 475 478 481 484 487 490 493 496 499 502 505 508 511 514 517 520 523 526 529 532 535 538 541 544 547 550 553 556 559 562 565 568 571 574 577 580 583 586 589 592 595 598 601 604 607 610 613 616 619 622 625 628 631 634 637 640 643 646 649 652 655 658 661 664 667 670 673 676 679 682 685 688 691 694 697 700 703 706 709 712 715 718 721 724 727 730 733 736 739 742 745 748 751 754 757 760 763 766 769 772 775 778 781 784 787 790 793 796 799 802 805 808 811 814 817 820 823 826 829 832 835 838 841 844 847 850 853 856 859 862 865 868 871 874 877 880 883 886 889 892 895 898 901 904 907 910 913 916 919 922 925 928 931 934 937 940 943 946 949 952 955 958 961 964 967 970 973 976 979 982 985 988 991 994 997 1000 1003 1006 1009 1012 1015 1018 1021 1024 1027 1030 1033 1036 1039 1042 1045 1048 1051 1054 1057 1060 1063 1066 1069 1072 1075 1078 1081 1084 1087 1090 1093 1096 1099 1102 1105 1108 1111 1114 1117 1120 1123 1126 1129 1132 1135 1138 1141 1144 1147 1150 1153 1156 1159 1162 1165 1168 1171 1174 1177 1180 1183 1186 1189 1192 1195 1198 1201 1204 1207 1210 1213 1216 1219 1222 1225 1228 1231 1234 1237 1240 1243 1246 1249 1252 1255 1258 1261 1264 1267 1270 1273 1276 1279 1282 1285 1288 1291 1294 1297 1300 1303 1306 1309 1312 1315 1318 1321 1324 1327 1330 1333 1336 1339 1342 1345 1348 1351 1354 1357 1360 1363 1366 1369 1372 1375 1378 1381 1384 1387 1390 1393 1396 1399 1402 1405 1408 1411 1414 1417 1420 1423 1426 1429 1432 1435 1438 1441 1444 1447 1450 1453 1456 1459 1462 1465 1468 1471 1474 1477 1480 1483 1486 1489 1492 1495 1498 1501 1504 1507 1510 1513 1516 1519 1522 1525 1528 1531 1534 1537 1540 1543 1546 1549 1552 1555 1558 1561 1564 1567 1570 1573 1576 1579 1582 1585 1588 1591 1594 1597 1600 1603 1606 1609 1612 1615 1618 1621 1624 1627 1630 1633 1636 1639 1642 1645 1648 1651 1654 1657 1660 1663 1666 1669 1672 1675 1678 1681 1684 1687 1690 1693 1696 1699 1702 1705 1708 1711 1714 1717 1720 1723 1726 1729 1732 1735 1738 1741 1744 1747 1750 1753 1756 1759 1762 1765 1768 1771 1774 1777 1780 1783 1786 1789 1792 1795 1798 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 14" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="31" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 3" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="47" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 4" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="55" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 5" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="55" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 142 145 148 151 154 157 160 163 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 9" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="34" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 8" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="21" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 7" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="36" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Nr 2" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="35" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Indgang" group="GarageCube" favorite="0">
+  <PixelMapping type="RGB" width="20" avoidCrossUniversePixels="1" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB" group="Generic" favorite="0">
+  <PixelMapping type="Custom" width="512" components="v4$$R$$Channel 1$$8 Bits$$$$" avoidCrossUniversePixels="0" height="1">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBL" group="Generic" favorite="0">
+  <PixelMapping type="RGBL" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBW" group="Generic" favorite="0">
+  <PixelMapping type="RGBW" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBWL" group="Generic" favorite="0">
+  <PixelMapping type="RGBWL" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel LRGB" group="Generic" favorite="0">
+  <PixelMapping type="LRGB" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel LRGBW" group="Generic" favorite="0">
+  <PixelMapping type="LRGBW" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel L" group="Generic" favorite="0">
+  <PixelMapping type="L" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel CMY" group="Generic" favorite="0">
+  <PixelMapping type="CMY" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel BGR" group="Generic" favorite="0">
+  <PixelMapping type="BGR" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel BRG" group="Generic" favorite="0">
+  <PixelMapping type="BRG" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="RGB16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBL 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="RGBL16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBW 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="RGBW16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGBWL 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="RGBWL16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel LRGB 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="LRGB16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel LRGBW 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="LRGBW16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel L 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="RBG" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel CMY 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="CMY16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel BGR 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="BGR16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel BRG 16 bits" group="Generic" favorite="0">
+  <PixelMapping type="BRG16" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB original" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="1" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="DMX decoder RGB" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="1" avoidCrossUniversePixels="0" height="1">-1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Plano spot RGBA" group="Generic" favorite="0">
+  <PixelMapping type="Custom" width="1" components="v4$$R$$Channel 1$$8 Bits$$$$$$G$$Channel 2$$8 Bits$$$$$$B$$Channel 3$$8 Bits$$$$$$Expresion$$Channel 4$$8 Bits$$255$$0" avoidCrossUniversePixels="0" height="1">1 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="AIR DMX lamp 3 ch" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="2" avoidCrossUniversePixels="1" height="1">1 4 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 2" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="29" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 7" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="28" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 6" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="27" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 4" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="5" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 1" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="47" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 139 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Fixture 5" group="Generic" favorite="0">
+  <PixelMapping type="RGB" width="46" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 85 88 91 94 97 100 103 106 109 112 115 118 121 124 127 130 133 136 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB" group="Generic_coral" favorite="0">
+  <PixelMapping type="RGB" width="17" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB" group="Generic_coral_2" favorite="0">
+  <PixelMapping type="RGB" width="17" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 </PixelMapping>
+ </LEDFixture>
+ <LEDFixture product="Pixel RGB" group="Generic_coral_3" favorite="0">
+  <PixelMapping type="RGB" width="17" avoidCrossUniversePixels="0" height="1">1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 </PixelMapping>
+ </LEDFixture>
+</LEDFixtureLibrary>

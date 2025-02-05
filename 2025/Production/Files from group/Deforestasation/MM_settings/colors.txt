@@ -1,0 +1,5 @@
+Background: #983699
+Outline: #5e1a4c
+Glow: #593e55
+Yolk: #ee9708
+Tint: #d49e0b

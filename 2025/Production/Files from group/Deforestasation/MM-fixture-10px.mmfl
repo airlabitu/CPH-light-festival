@@ -1,0 +1,5 @@
+<LEDFixtureLibrary>
+ <LEDFixture group="AIR LAB" product="Cph_light_10_px" favorite="0">
+  <PixelMapping width="10" height="1" type="RGB" avoidCrossUniversePixels="0">1 4 7 10 13 16 19 22 25 28 </PixelMapping>
+ </LEDFixture>
+</LEDFixtureLibrary>
